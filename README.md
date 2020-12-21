@@ -1,6 +1,6 @@
 <h2 align="center"> Welcome to my Github page 👋 </h2>
 <p >
-  <img src = "https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/source.gif" height = 300px align="right"/>
+  <img src = "https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" height = 300px align="right"/>
 </p>
 
  I am Fengshou and you may call me Sherlock. I have just graduated from [University of Toronto](https://www.utoronto.ca/) 🎓 and I am looking forward to learning and exploring more about data analytics and data science. 
