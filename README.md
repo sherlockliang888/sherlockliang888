@@ -1,11 +1,12 @@
 <h2 align="center"> Welcome to my Github page 👋 </h2>
-<p align="right">
-  <img src = "https://media.giphy.com/media/HUplkVCPY7jTW/source.gif" />
+<p >
+  <img src = "https://media.giphy.com/media/HUplkVCPY7jTW/source.gif" height = 300px align="right"/>
 </p>
-<section align = "left">
+
  I am Fengshou and you may call me Sherlock. I have just graduated from [University of Toronto](https://www.utoronto.ca/) and I am looking forward to learning and exploring more about data analytics and data science. 
   <p align = "left"> What am I working on now..? I am currently taking more courses related to data at Cousera and doing projects on my own. I will be continuing my study in data science starting January 2021 and I will focus on AI development and application. </p>
-</section>
+
+
 <br>
 
 
