@@ -4,7 +4,7 @@
 </p>
 
  I am Fengshou and you may call me Sherlock. I have just graduated from [University of Toronto](https://www.utoronto.ca/) 🎓 and I am looking forward to learning and exploring more about data analytics and data science. 
-  <p align = "left"> What am I up to now..? I am currently taking more courses related to data at Cousera and doing projects on my own📚 I will be continuing my post-graduate study in data science starting January 2021 and it will focus on AI development and application. </p>
+  <p align = "left"> What am I up to now..? I am currently taking more courses related to data via Coursera and doing projects on my own📚 I will be continuing my post-graduate study in data science starting January 2021 and it will focus on AI development and application. </p>
 
 
 <br>
