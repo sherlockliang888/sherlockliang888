@@ -4,7 +4,7 @@
 </p>
 
  I am Fengshou and you may call me Sherlock. I have just graduated from [University of Toronto](https://www.utoronto.ca/) 🎓 and I am looking forward to learning and exploring more about data analytics and data science. 
-  <p align = "left"> What am I up to now..? I am currently taking more courses related to data via Coursera and doing projects on my own📚 I will be continuing my post-graduate study in data science starting January 2021 and it will focus on AI development and application. </p>
+  <p align = "left"> What am I up to now..? I am currently taking more courses related to data via Coursera and doing projects on my own📚 I also started my post-graduate study program on data science in January 2021 at George Brown College. <a href = "https://www.georgebrown.ca/programs/applied-ai-solutions-development-program-t431?year=2020">This program </a> will help me better prepare for the role of a Full Stack Data Scientist, who is qualified to fill the roles of Data Scientist, Data Analyst, Data Engineer or Machine Learning Engineer as needed. I will be given preparatory training and simulated experiences in tailoring their presentations to various target audiences including technical, business and investors. </p>
 
 
 <br>
