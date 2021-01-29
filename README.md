@@ -12,8 +12,8 @@
 
 <p> ⚡ Fun facts: </p>
 <ul>
-  <li> I am a Chinese dude who has gone school in China, Argentina and Canada. </li>
   <li> Before deciding becoming a data analyst for a living, I have explored the fields of acting, filming and personal training. </li> 
+  <li> I like fried chicken.
 </ul>
  <br> 
  
