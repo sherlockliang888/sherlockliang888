@@ -12,7 +12,7 @@
 
 <p> ⚡ Fun facts: </p>
 <ul>
-  <li> Before deciding becoming a data analyst for a living, I have explored the fields of acting, filming and personal training. </li> 
+  <li> Before deciding becoming a data analyst for a living, I have explored career fields including acting, filming and personal training. </li> 
   <li> I went to middle school in China, high school in Argentina and universiy in Canada, so I guess I am a third culture kid/man. </li> 
   <li> I like fried chicken.
 </ul>
